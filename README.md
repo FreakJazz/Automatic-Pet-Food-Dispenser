@@ -177,9 +177,9 @@ float ultrasonic(){
 
 ### Pet Dispenser
 
-![Automatic Pet Dispenser](![Arduino Project](https://github.com/FreakJazz/Automatic-Pet-Food-Dispenser/blob/master/images/pet1.jpg))
+![Arduino Project](https://github.com/FreakJazz/Automatic-Pet-Food-Dispenser/blob/master/images/pet1.jpg)
 
-![Automatic Pet Dispenser](![Arduino Project](https://github.com/FreakJazz/Automatic-Pet-Food-Dispenser/blob/master/images/pet2.jpg))
+![Arduino Project](https://github.com/FreakJazz/Automatic-Pet-Food-Dispenser/blob/master/images/pet2.jpg)
 
 [Up](#top)
 
