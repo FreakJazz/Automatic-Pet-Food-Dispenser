@@ -1,18 +1,20 @@
 <a name="top"></a>
 # Automatic-Pet-Food-Dispenser
 
-![Topic Configuration](https://github.com/FreakJazz/Connection-MQTT-with-Python/blob/master/images/topic.JPG)
+![Arduino Project](https://github.com/FreakJazz/Automatic-Pet-Food-Dispenser/blob/master/images/logo_arduino.png)
 
 <a name="item1"></a>
 ## Description
 
 Automatic pet food dispenser with time programming, and level meter in Arduino MEGA with I2C communication
+![Arduino Project](https://github.com/FreakJazz/Automatic-Pet-Food-Dispenser/blob/master/images/ARDUINO_MEGA.jpg)
 
 <a name="item2"></a>
 ## Contents
 - [Description](#item1)
 - [Contents](#item2)
 - [Library Installation](#item3)
+- [Configuration](#item4)
 - [Programation](#item5)
 - [Results](#item6)
 - [Contributing](#item6)
@@ -25,6 +27,7 @@ Automatic pet food dispenser with time programming, and level meter in Arduino M
 In order to this project several libraries are agreed 
 
 ### LiquidCrystal
+![Arduino Project](https://github.com/FreakJazz/Automatic-Pet-Food-Dispenser/blob/master/images/LCD.jpg)
 
 This library is used to LCD 16x2
 
@@ -34,6 +37,8 @@ This library is used to LCD 16x2
 
 ### DS1307 RTC I2C
 
+![Arduino Project](https://github.com/FreakJazz/Automatic-Pet-Food-Dispenser/blob/master/images/DS1307.jpg)
+
 This two libraries are used to DS1307 RTC I2C
 
 ```C++
@@ -41,6 +46,8 @@ This two libraries are used to DS1307 RTC I2C
 #include "RTClib.h"
 ```
 ### SERVO
+
+![Arduino Project](https://github.com/FreakJazz/Automatic-Pet-Food-Dispenser/blob/master/images/servo.jpg)
 
 Servo library is used to open and close the gate
 
@@ -170,10 +177,9 @@ float ultrasonic(){
 
 ### Pet Dispenser
 
-![Automatic Pet Dispenser](https://github.com/FreakJazz/Connection-MQTT-with-Python/blob/master/images/send_python.JPG)
+![Automatic Pet Dispenser](![Arduino Project](https://github.com/FreakJazz/Automatic-Pet-Food-Dispenser/blob/master/images/pet1.jpg))
 
-
-![Topic Configuration](https://github.com/FreakJazz/Connection-MQTT-with-Python/blob/master/images/topic.JPG)
+![Automatic Pet Dispenser](![Arduino Project](https://github.com/FreakJazz/Automatic-Pet-Food-Dispenser/blob/master/images/pet2.jpg))
 
 [Up](#top)
 
